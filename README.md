@@ -18,7 +18,7 @@ Maintain backlog lists of movies, television shows, and other media types. Can a
 - **Story:** In a world where there are far too many things to watch, read, or experience and more coming each day, one app looks to help you stay on top of the content you're most interested in by keeping track of it all.
 - **Market:** The market is potentially quite wide, since it's not uncommon for people of all kinds to be interested in a piece of media while also not necessarily having the ability to consume it immediately. Being able to keep lists of things to watch/read/etc in time is broadly applicable.
 - **Habit:** Social features (sharing lists, receiving or sharing recommendations to other users' lists, commenting on lists) as well as the inherent nature of the app as something that is used to keep track of ideas/suggestions that come up in the moment should keep users checking in. There would also be cyclical milestones (watch/read/etc X items, watch/read/etc X (genre) items...) to encourage engaging with the app to check things off of lists and add new ones.
-- **Scope:** V1 would just encompass adding an entity from an API to a list and storing it. V2 would incorporate milestones (maybe just weekly) for consuming pieces of media, potentially incorporating genre-based milestones if the user has high enough concentrations in a given genre. V3 could include some social functionality (adding items to others' lists as suggestions).
+- **Scope:** V1 would just encompass adding a movie from TMDB to a list and storing it. V2 would expand functionality to TV shows and include episode progress information per show.  V3 would incorporate milestones (maybe just weekly) for consuming pieces of media, potentially incorporating genre-based milestones if the user has high enough concentrations in a given genre. V3 could include some social functionality (adding items to others' lists as suggestions).
 
 ## Product Spec
 
@@ -59,7 +59,7 @@ Maintain backlog lists of movies, television shows, and other media types. Can a
     - Double-tap a recommendation to 'Like' it
     - View milestones for checking off items
 - Detail
-    - Get more information about a backlog item (overview, creator(s), cast, etc)
+    - Get more information about a backlog item (overview, creator(s), cast, episode progress, etc)
     - Get more information about a search result
         - Add a search result to a list
 
