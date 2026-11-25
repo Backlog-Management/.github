@@ -39,6 +39,7 @@ Maintain backlog lists of movies, television shows, and other media types. Can a
 
 1. Rate recommendations
 2. Comment on other users' lists
+3. Multiple lists per media type
 
 ### 2. Screen Archetypes
 
