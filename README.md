@@ -103,13 +103,22 @@ Maintain backlog lists of movies, television shows, and other media types. Can a
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+I just made Figma wireframes:
+
+<img src="https://i.imgur.com/PNydn7H.png" width=600>
+<img src="https://i.imgur.com/R6vo1df.png" width=600>
+<img src="https://i.imgur.com/kSrFH5M.png" width=600>
+
 
 <br>
 
 <br>
 
 ### [BONUS] Digital Wireframes & Mockups
+
+<img src="https://i.imgur.com/PNydn7H.png" width=600>
+<img src="https://i.imgur.com/R6vo1df.png" width=600>
+<img src="https://i.imgur.com/kSrFH5M.png" width=600>
 
 ### [BONUS] Interactive Prototype
 
