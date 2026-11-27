@@ -30,16 +30,16 @@ Maintain backlog lists of movies, television shows, and other media types. Can a
 2. Search APIs for items.
 3. Add items from APIs to user-created/locally stored backlog lists.
 4. Users can create accounts
-5. Users can check items off of backlog lists to indicate that they've been finished
-6. Track cyclical (weekly/monthly/yearly) milestones for checking items off of backlog lists.
-7. View other users' lists
-8. Add recommendations to other users' lists
+5. Users can check items off of backlog lists to indicate that they've been finished  
 
 **Optional Features**
 
 1. Rate recommendations
 2. Comment on other users' lists
 3. Multiple lists per media type
+4. View other users' lists
+5. Add recommendations to other users' lists
+6. Track cyclical (weekly/monthly/yearly) milestones for checking items off of backlog lists.
 
 ### 2. Screen Archetypes
 
